@@ -24,6 +24,7 @@ It is important to note, that even everything combined, the overall extent of th
 [1. The Arcadia model in a nutshell](#1-the-arcadia-model-in-a-nutshell)  
 - [1.1. Model structure](#11-model-structure)  
 - [1.2. Most important concepts of the model](#12-most-important-concepts-of-the-model)  
+- [1.3. Diagram types of the model](#13-diagram-types-of-the-model)
 
 [2. Bulding the different model perspectives](#2-bulding-the-different-model-perspectives)  
 - [2.0. Functional analysis (FA)](#20-functional-analysis-fa)
